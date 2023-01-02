@@ -41,7 +41,7 @@
     "@types/compression": "^1.7.2",
     "@types/cors": "^2.8.12",
     "@types/express": "^4.17.15",
-    "@types/jest": "^29.2.3",
+    "@types/jest": "^29.2.5",
     "@types/mkdirp": "^1.0.2",
     "@types/node": "^18.11.17",
     "@types/rimraf": "^3.0.2",
